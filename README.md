@@ -65,12 +65,14 @@
 
 ## Github Stats  
 
-<br/>  
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rithvik78&theme=github_dark)   
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rithvik78&theme=github_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rithvik78&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rithvik78&theme=github_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rithvik78&theme=github_dark)
 
 
 <div align="center"><img src="https://github.com/rithvik78/rithvik78/blob/output/github-contribution-grid-snake.svg" align="center" /></div>  
 
-
+<br/>  
 
 <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rithvik78&theme=neon-dark" align="center" /></div>  
 
