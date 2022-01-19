@@ -44,7 +44,7 @@
 ## Connect with me  
 <div align="center">
 <a href="http://rithvik78.github.io/" target="_blank">
-<img src=https://img.shields.io/badge/blog-%2324292e.svg?&style=for-the-badge&logo=Safari&logoColor=white&color=black alt=blog style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/website-%2324292e.svg?&style=for-the-badge&logo=Safari&logoColor=white&color=black alt=website style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/rithvik78" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
