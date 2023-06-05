@@ -2,7 +2,9 @@
   <a href="https://github.com/rithvik78"><img src="https://readme-typing-svg.herokuapp.com?color=%23F7789B&size=30&center=true&vCenter=true&lines=%3C+Hello+World!+%2F%3E;%3C+Namaste+World!+%2F%3E;%3C+Bonjour+World!+%2F%3E;%3C+Ciao+World!+%2F%3E;%3C+Hola+World!+%2F%3E;%3C+Ni+Hao+World!+%2F%3E"></a>
 </p>
 
-### I'm Rithvik, an undergrad student majoring in CSE 👨‍💻 at [Amrita Vishwa Vidyapeetham](https://amrita.edu).
+### I'm Rithvik
+<!-- , an undergrad student majoring in CSE 👨‍💻 -->
+<!-- at [Amrita Vishwa Vidyapeetham](https://amrita.edu). -->
   
 
 <br/>  
